@@ -1,6 +1,6 @@
 # addz
 
-#Description#
+#Description
 
 This program takes a text file formatted like the two included (bands1Col.txt | bands5Col.txt)
 
@@ -11,7 +11,7 @@ This produces the total count represented by the amount distributed in the **416
 
 [Number of essentially different minlex grids in each group](https://github.com/1to9only/essentially-different-minlex-grids)
 
-#Execution from command line#
+#Execution from command line
 ```
 python3 addz.py bands1Col.txt
 5_472_730_538
