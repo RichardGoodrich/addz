@@ -18,6 +18,3 @@ python3 addz.py bands1Col.txt
 5_472_730_538
 >
 ```
-
-
-  
