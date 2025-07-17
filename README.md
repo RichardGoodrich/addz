@@ -2,7 +2,7 @@
 
 # Description
 
-This program takes a text file formatted in a variable number of columns.  The files should be formatted "like" the two included (bands1Col.txt | bands5Col.txt)
+This Python script takes a text file formatted in a variable number of columns.  The files should be formatted "like" the two included (bands1Col.txt | bands5Col.txt)
 A **#** can be used as a comment symbol and blank lines are ignore.
 
 There are **416** essentially different minlex groups that have the **ED# = 5472730538** essentially different minlex grids **[ED]** distributed among them.
